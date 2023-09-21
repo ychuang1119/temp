@@ -109,7 +109,7 @@
 
 
    
- 	<div style="width: 550px;border-radius: 30px;margin: 50px auto;padding: 50px 80px;float:left;">
+ 	<div style="width: 650px;border-radius: 30px;margin: 50px auto;padding: 50px 80px;float:left;">
    
 	   <details open>
 	    		<summary style="font-size:35px; color: #003060;">Welcome to T2D risk calculator</summary>  
