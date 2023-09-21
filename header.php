@@ -107,7 +107,7 @@
    <div style="background-color: hsla(0,0%,100%,.8);padding: 0.5rem 2rem; font-size:30px;">Type 2 Diabetes risk calculator
    </div>
 
-
+<h1></h1>
    
  	<div style="width: 650px;border-radius: 30px;margin: 50px auto;padding: 50px 80px;float:left;">
    
